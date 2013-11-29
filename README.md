@@ -10,4 +10,4 @@ PuTTY Terminal Color Schemes/Themes Gallery
 ``/file/`` — Themes for PuTTY portable forks (with patched winstore.c, not portableApps).
 >Put the colours config to the beginning of your session's file
 
-Inspired by russian's [PuTTY Colours](http://putty.org.ru/themes/index.html) collection.
+Inspired by russian's [PuTTY](http://putty.org.ru/themes/index.html) colours collection.
